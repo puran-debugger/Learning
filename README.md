@@ -8,6 +8,6 @@ AWS: [Getting Started with AWS Machine Learning](https://coursera.org/share/ceea
 Spark: [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)
 
 ### Finance
-C++: 
+C++: <br>
 Bloomberg:[Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
