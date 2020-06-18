@@ -11,6 +11,9 @@ Python: [Python for Everybody Specialization](https://www.coursera.org/account/a
 
 
 ### Data Science
+Machine Learning:[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)
+Deep Learning:
+Algorithms: [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)
 
 ### Cloud 
 AWS: [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
