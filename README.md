@@ -16,6 +16,7 @@ Python: <br>
 ### Data Science
 Machine Learning:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
+Machine Learning <br>
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 
 Deep Learning:<br>
