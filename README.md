@@ -3,7 +3,7 @@
 ## Moocs
 
 ### Data Analytic 
-SQL: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
+**SQL**: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 
 VBA: [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
 
