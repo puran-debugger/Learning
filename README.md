@@ -35,6 +35,8 @@ Spark: [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certif
 MongoDB: MongoDB and Python-Quick Start
 
 ### Finance
+Trading: <br>
+[Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
 C++: [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 Bloomberg: [Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
