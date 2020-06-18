@@ -38,9 +38,11 @@ Tensorflow in Practice Specialization<br>
 **MongoDB**: MongoDB and Python-Quick Start
 
 ### Finance
-**Trading**: <br>
+**Trading and Financial Analysis**: <br>
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
+[Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)
 
 **C++**: [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
+
 **Bloomberg**: [Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
