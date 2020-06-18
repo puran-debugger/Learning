@@ -6,7 +6,8 @@
 SQL: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 VBA: <br>
 Python: [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/U3SU8BNGKZV9)<br>
-* 
+* Get Started with Python *
+
 
 ### Data Science
 
