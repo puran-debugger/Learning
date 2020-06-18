@@ -28,6 +28,7 @@ Tensorflow in Practice Specialization<br>
 
 **Algorithms**: [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
 
+**Git**: [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)
 
 ### Cloud 
 **AWS**: [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
