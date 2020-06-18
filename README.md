@@ -40,7 +40,11 @@ Tensorflow in Practice Specialization<br>
 ### Finance
 **Trading and Financial Analysis**: <br>
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
-[Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)
+[Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
+
+**Risk**:<br>
+[Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)
+[Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)
 
 **C++**: [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
