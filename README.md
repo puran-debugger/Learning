@@ -20,6 +20,9 @@ Machine Learning <br>
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 
 Deep Learning:<br>
+Neural Networks and Deep Learning<br>
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>
+Tesorflow in Practice Specialization<br>
 
 Algorithms: [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
 
