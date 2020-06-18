@@ -8,11 +8,10 @@ SQL: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishm
 VBA: [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
 
 Python: <br>
+[Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)
 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/U3SU8BNGKZV9)<br>
 1. Getting Started with Python 2. Python Data Structures 3. Using Python to Access Web Data<br> 
 4. Using Database with Python 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
-[Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)
-
 
 ### Data Science
 Machine Learning:<br>
