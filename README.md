@@ -35,7 +35,7 @@ Tensorflow in Practice Specialization<br>
 
 ### Big Data
 **Spark**: [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
-**MongoDB**: MongoDB and Python-Quick Start
+**MongoDB**: MongoDB and Python - Quick Start
 
 ### Finance
 **Trading and Financial Analysis**: <br>
@@ -43,8 +43,8 @@ Tensorflow in Practice Specialization<br>
 [Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
 
 **Risk**:<br>
-[Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)
-[Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)
+[Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
+[Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
 
 **C++**: [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
