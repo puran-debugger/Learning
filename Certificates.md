@@ -47,7 +47,7 @@ Tensorflow in Practice Specialization<br>
 
 **Risk**:<br>
 [Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
-[Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
+[Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-a82adee4-f982-4cff-a2a0-acffab9f91ff/)<br>
 
 **C++**: [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
