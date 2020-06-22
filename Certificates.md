@@ -27,7 +27,9 @@ Neural Networks and Deep Learning<br>
 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>
 Tensorflow in Practice Specialization<br>
 
-**Algorithms**: [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
+**Algorithms**:<br>
+[Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
+[Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
 
 **Git**: [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)
 
