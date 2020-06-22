@@ -1,8 +1,8 @@
 ## Education
-M.S. Computer Science
-M.S. Financial Mathematics
-B.S. Statistics
+M.S. Computer Science (ongoing, part time)<br>
+M.S. Financial Mathematics <br>
+B.S. Statistics <br>
 
 # Ongoing Certified Program:
-CFA
-FRM
+CFA <br>
+FRM <br>
