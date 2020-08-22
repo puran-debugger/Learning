@@ -15,7 +15,7 @@
 4. Using Database with Python 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
 ### Data Science
-**AI**:<br>
+**Data Science Insight**:<br>
 [AI for Everybody]()
 
 **Machine Learning**:<br>
