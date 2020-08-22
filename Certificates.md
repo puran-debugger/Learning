@@ -1,8 +1,7 @@
 # Certificates of self-learning
 
-## Moocs
-
 ### Data Analytic 
+
 **SQL**: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 
 **Tableau**: [Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
