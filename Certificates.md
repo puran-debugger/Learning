@@ -23,9 +23,8 @@
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-e02ef300-32bb-401e-99cf-39933dc6b73a/)<br>
 
 **Deep Learning**:<br>
-Neural Networks and Deep Learning<br>
-Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization<br>
-Tensorflow in Practice Specialization<br>
+[Deep Learning Specialization]()<br>
+[Tensorflow Developer Professional Program]()<br>
 
 **Algorithms**:<br>
 [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
