@@ -15,6 +15,9 @@
 4. Using Database with Python 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
 ### Data Science
+**AI**:<br>
+[AI for Everybody]()
+
 **Machine Learning**:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
 [Machine Learning](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
@@ -54,4 +57,4 @@
 **Bloomberg**: [Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
 ### Product
-**AB Testing**
+**AB Testing**:
