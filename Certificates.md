@@ -1,7 +1,6 @@
 # Certificates of self-learning
 
 ### Data Analytic
-***
 
 **SQL**: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 
