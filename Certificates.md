@@ -30,7 +30,9 @@
 [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
 [Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
 
-**Git**: [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)
+**Git**:<br>
+[The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
+[Version Control Using Git]()<br>
 
 ### Cloud 
 **AWS**: [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
