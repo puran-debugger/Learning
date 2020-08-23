@@ -1,7 +1,7 @@
 <h1 align="center"> Self-learning Path </h1> <br>
 
 Background: _M.S. Financial Mathematics_, _B.S. Statistics_<br>
-Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``CFA`` ``FRM``
+Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Blooberg Terminal`` ``CFA`` ``FRM``
 
 ## Table of contents
 
