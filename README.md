@@ -22,8 +22,11 @@ MongoDB and Python - Quick Start
 #### 1.5 Python: <br>
 [Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)<br>
 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/U3SU8BNGKZV9)<br>
-1. Getting Started with Python 2. Python Data Structures 3. Using Python to Access Web Data<br> 
-4. Using Database with Python 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
+1. Getting Started with Python<br> 
+2. Python Data Structures<br> 
+3. Using Python to Access Web Data<br> 
+4. Using Database with Python<br> 
+5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
 ### 2. Data Science
 #### 2.1 Data Science Insight:
@@ -37,11 +40,16 @@ MongoDB and Python - Quick Start
 
 #### 2.3 Deep Learning:<br>
 [Deep Learning Specialization]()<br>
-1. Neural Networks and Deep Learning 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 3. Structuring Machine Learning Projects<br>
-4. Covolutional Neural Networks 5. Sequence Models<br>
+1. Neural Networks and Deep Learning<br>
+2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <br>
+3. Structuring Machine Learning Projects<br>
+4. Covolutional Neural Networks <br>
+5. Sequence Models<br>
+
 [Tensorflow Developer Professional Program]()<br>
 1. Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning<br>
-2. Convolutional Neural Networks in TensorFlow 3. Natural Language Processing in TensowFlow<br>
+2. Convolutional Neural Networks in TensorFlow<br>
+3. Natural Language Processing in TensowFlow<br>
 4. Sequences, Time Series and Prediction<br>
 
 #### 2.5 Git:<br>
