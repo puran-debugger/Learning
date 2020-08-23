@@ -5,73 +5,76 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` `
 
 ## Table of contents
 
-### Data Analytic
+### 1. Data Analytic
 
-**SQL Database**
-#### MySQL:
+#### 1.1 MySQL (SQL):
 [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 
-**NoSQL Database**
-#### MongoDB:<br>
+#### 1.2 MongoDB (NoSQL):<br>
 MongoDB and Python - Quick Start
 
-#### Tableau: 
+#### 1.3 Tableau: 
 [Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
 
-#### Excel & VBA:
+#### 1.4 Excel & VBA:
 [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
 
-#### Python: <br>
+#### 1.5 Python: <br>
 [Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)<br>
 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/U3SU8BNGKZV9)<br>
 1. Getting Started with Python 2. Python Data Structures 3. Using Python to Access Web Data<br> 
 4. Using Database with Python 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
-### Data Science
-#### Data Science Insight:
+### 2. Data Science
+#### 2.1 Data Science Insight:
 [AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
 
-#### Machine Learning:<br>
+#### 2.2 Machine Learning:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
 [Machine Learning](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-e02ef300-32bb-401e-99cf-39933dc6b73a/)<br>
 
-#### Deep Learning:<br>
+#### 2.3 Deep Learning:<br>
 [Deep Learning Specialization]()<br>
+1. Neural Networks and Deep Learning 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 3. Structuring Machine Learning Projects<br>
+4. Covolutional Neural Networks 5. Sequence Models<br>
 [Tensorflow Developer Professional Program]()<br>
-1. Introduction to Tensor
+1. Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning<br>
+2. Convolutional Neural Networks in TensorFlow 3. Natural Language Processing in TensowFlow<br>
+4. Sequences, Time Series and Prediction<br>
 
-#### Algorithms:<br>
-[Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
-[Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
-
-#### Git:<br>
+#### 2.5 Git:<br>
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
 [Version Control Using Git]()<br>
 
-**Cloud** 
-#### AWS: 
+#### 2.6 AWS (Cloud): 
 [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
 
-**Big Data**
-#### Spark: 
+#### 2.7 Spark (Big Data): 
 [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
 
-### Finance
-#### Trading and Financial Analysis:
+### 4. Product
+#### 4.1 AB Testing:
+
+### 5. Computer Science
+#### 5.1 Algorithms:<br>
+[Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
+[Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
+
+### 6. Finance
+#### 6.1 Trading and Financial Analysis:
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
 [Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
 
-#### Risk:<br>
+#### 6.2 Risk:<br>
 [Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
 [Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-a82adee4-f982-4cff-a2a0-acffab9f91ff/)<br>
 
-#### C++: 
+#### 6.3 C++: 
 [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
-#### Bloomberg:
+#### 5.4 Bloomberg:
 [Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
-### Product
-#### AB Testing:
+
