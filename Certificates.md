@@ -16,7 +16,7 @@
 
 ### Data Science
 **Data Science Insight**:<br>
-[AI for Everybody]()
+[AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
 
 **Machine Learning**:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
