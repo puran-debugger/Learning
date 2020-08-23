@@ -1,17 +1,23 @@
 <h1 align="center"> Self-learning Path </h1> <br>
 
 Background: _M.S. Financial Mathematics_, _B.S. Statistics_<br>
-Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Blooberg Terminal`` ``CFA`` ``FRM``
+Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` ``CFA`` ``FRM``
 
 ## Table of contents
 
 ### Data Analytic
 
-**SQL**: [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
+#### SQL Database
+**MySQL**
+[Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
+
+#### NoSQL Database
+**MongoDB**:<br>
+MongoDB and Python - Quick Start
 
 **Tableau**: [Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
 
-**VBA**: [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
+**Excel & VBA**: [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
 
 **Python**: <br>
 [Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)<br>
@@ -42,12 +48,11 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Blooberg Terminal`` ``CFA`` ``FR
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
 [Version Control Using Git]()<br>
 
-### Cloud 
+#### Cloud 
 **AWS**: [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
 
-### Big Data
+#### Big Data
 **Spark**: [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
-**MongoDB**: MongoDB and Python - Quick Start
 
 ### Finance
 **Trading and Financial Analysis**: <br>
