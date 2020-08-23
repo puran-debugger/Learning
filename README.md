@@ -64,24 +64,26 @@ MongoDB and Python - Quick Start
 #### 2.7 Spark (Big Data): 
 [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
 
-### 4. Product
-#### 4.1 AB Testing:
+### 3. Product
+#### 3.1 A/B Testing:
+[A/B Testing](https://www.udacity.com/course/ab-testing--ud257)<br>
+[A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)<br>
 
-### 5. Computer Science
-#### 5.1 Algorithms:<br>
+### 4. Computer Science
+#### 4.1 Algorithms:<br>
 [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
 [Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
 
-### 6. Finance
-#### 6.1 Trading and Financial Analysis:
+### 5. Finance
+#### 5.1 Trading and Financial Analysis:
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
 [Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
 
-#### 6.2 Risk:<br>
+#### 5.2 Risk:<br>
 [Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
 [Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-a82adee4-f982-4cff-a2a0-acffab9f91ff/)<br>
 
-#### 6.3 C++: 
+#### 5.3 C++: 
 [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
 #### 5.4 Bloomberg:
