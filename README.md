@@ -13,6 +13,7 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` `
 
 #### 1.2 MongoDB (NoSQL):<br>
 MongoDB and Python - Quick Start
+[Create a Python Application using PyMongo and MongoDB Database](https://coursera.org/share/6709899500e381320aba4caba91d6520)
 
 #### 1.3 Tableau: 
 [Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
