@@ -9,6 +9,7 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` `
 
 #### 1.1 MySQL (SQL):
 [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
+[Create a Python Application using MySQL](https://coursera.org/share/6709899500e381320aba4caba91d6520)<br>
 
 #### 1.2 MongoDB (NoSQL):<br>
 MongoDB and Python - Quick Start
