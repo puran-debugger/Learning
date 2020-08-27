@@ -30,10 +30,10 @@ MongoDB and Python - Quick Start<br>
 4. Using Database with Python<br> 
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
-#### 1.6 Statistics:<br>
-[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
-
 #### 1.6 SAS: <br>
+
+#### 1.7 Statistics:<br>
+[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
 
 ### 2. Data Science
 #### 2.1 Data Science Insight:
