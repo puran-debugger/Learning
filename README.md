@@ -30,6 +30,9 @@ MongoDB and Python - Quick Start<br>
 4. Using Database with Python<br> 
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
+#### 1.6 Statistics:<br>
+[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
+
 #### 1.6 SAS: <br>
 
 ### 2. Data Science
@@ -37,7 +40,6 @@ MongoDB and Python - Quick Start<br>
 [AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
 
 #### 2.2 Machine Learning:<br>
-[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
 [Machine Learning](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-e02ef300-32bb-401e-99cf-39933dc6b73a/)<br>
