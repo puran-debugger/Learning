@@ -41,6 +41,8 @@ MongoDB and Python - Quick Start<br>
 [Machine Learning](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-e02ef300-32bb-401e-99cf-39933dc6b73a/)<br>
+[Feature Engineering for Machine Learning]()<br>
+[Deployment of Machine Learning Models]()<br>
 
 #### 2.3 Deep Learning:<br>
 [Deep Learning Specialization]()<br>
