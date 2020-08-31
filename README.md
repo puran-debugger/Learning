@@ -40,7 +40,14 @@ MongoDB and Python - Quick Start<br>
 [AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
 
 #### 2.2 Machine Learning:<br>
-[Machine Learning](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
+[Machine Learning (Stanford Unv.)](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
+[Machine Learning Specialization (Unv. Washington)]()<br>
+1. Machine Learning Foundations: A Case Study Approach<br>
+2. Machine Learning: Regression<br>
+3. Machine Learning: Classification<br>
+4. Machine Learning: Clustering & Retrieval<br>
+
+
 [Applied Machine Learning in Python](https://coursera.org/share/5a37d2d36297c9b63a9daf988692da8b)<br>
 [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/certificate/UC-e02ef300-32bb-401e-99cf-39933dc6b73a/)<br>
 
