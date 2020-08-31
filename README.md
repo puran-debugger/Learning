@@ -64,7 +64,7 @@ MongoDB and Python - Quick Start<br>
 4. Covolutional Neural Networks <br>
 5. Sequence Models<br>
 
-[Tensorflow Developer Professional Program]()<br>
+[AI Tensorflow Developer Professional Certificate]()<br>
 1. Introduction to TensorFlow for Artifical Intelligence, Machine Learning, and Deep Learning<br>
 2. Convolutional Neural Networks in TensorFlow<br>
 3. Natural Language Processing in TensowFlow<br>
