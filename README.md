@@ -80,7 +80,10 @@ MongoDB and Python - Quick Start<br>
 [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
 
 ### 3. Product
-#### 3.1 A/B Testing:
+#### 3.1 Product Insight
+[The Product Life Cycle: A guide from start to finish with google sheet]()<br>
+
+#### 3.2 A/B Testing:
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)<br>
 [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)<br>
 
