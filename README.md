@@ -87,6 +87,13 @@ MongoDB and Python - Quick Start<br>
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
 [Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
 
+### 5.3 Asset Management:
+[Investment Management with Python and Machine Learning Specialization]()<br>
+1. Introduction to Portfolio Construction and Analysis with Python<br>
+2. Advanced Portfolio Construction and Analysis with Python<br>
+3. Python and Machine Learning for Asset Management<br>
+4. Python and Machine Learning for Asset Management with Alternative Data Sets<br>
+
 #### 5.2 Risk:<br>
 [Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
 [Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-a82adee4-f982-4cff-a2a0-acffab9f91ff/)<br>
