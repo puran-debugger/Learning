@@ -99,8 +99,10 @@ MongoDB and Python - Quick Start<br>
 
 ### 6. Finance
 
-**Chartered Financial Analyst** [Level1]() [level2]()<br>
-**Financial Risk Manager** [level1]() [level2]()<br>
+**Chartered Financial Analyst** <br>
+[CFA Level1]()  [CFA level2]()  [CFA level3]<br>
+**Financial Risk Manager**<br>
+[FRM level1]()  [FRM level2]()<br>
 
 #### 6.1 Trading and Financial Analysis:
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
