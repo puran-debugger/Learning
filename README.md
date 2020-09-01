@@ -34,6 +34,7 @@ MongoDB and Python - Quick Start<br>
 3. Using Python to Access Web Data<br> 
 4. Using Database with Python<br> 
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
+
 [Python for Time Series Data Analysis]()<br>
 
 #### 2.6 SAS: <br>
@@ -103,7 +104,7 @@ MongoDB and Python - Quick Start<br>
 ### 6. Finance
 
 **Chartered Financial Analyst** <br>
-[CFA Level1]()  [CFA level2]()  [CFA level3]<br>
+[CFA Level1]()  [CFA level2]()  [CFA level3]()<br>
 **Financial Risk Manager**<br>
 [FRM level1]()  [FRM level2]()<br>
 
