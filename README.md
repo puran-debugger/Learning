@@ -34,6 +34,7 @@ MongoDB and Python - Quick Start<br>
 3. Using Python to Access Web Data<br> 
 4. Using Database with Python<br> 
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
+[Python for Time Series Data Analysis]()<br>
 
 #### 2.6 SAS: <br>
 
@@ -57,7 +58,7 @@ MongoDB and Python - Quick Start<br>
 [Feature Selection for Machine Learning]()<br>
 [Deployment of Machine Learning Models]()<br>
 
-#### 3.3 Deep Learning:<br>
+#### 3.3 Deep Learning/Natural Language Processing/Computer Vision:<br>
 [Deep Learning Specialization]()<br>
 1. Neural Networks and Deep Learning<br>
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <br>
@@ -70,6 +71,8 @@ MongoDB and Python - Quick Start<br>
 2. Convolutional Neural Networks in TensorFlow<br>
 3. Natural Language Processing in TensowFlow<br>
 4. Sequences, Time Series and Prediction<br>
+
+[NLP - Natural Language Processing]()<br> 
 
 #### 3.4 Git:<br>
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
