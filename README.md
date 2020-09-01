@@ -34,7 +34,7 @@ MongoDB and Python - Quick Start<br>
 
 #### 1.7 Statistics & Math:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
-[Machine Learning Foundation - Math Foundation]() [Note](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
+[Machine Learning Foundation - Math Foundation]() [[Note]](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
 
 ### 2. Data Science
 #### 2.1 Data Science Insight:
