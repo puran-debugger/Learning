@@ -1,27 +1,32 @@
 <h1 align="center"> Self-learning Path </h1> <br>
 
 Background: _M.S. Financial Mathematics_, _B.S. Statistics_<br>
-Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` ``CFA`` ``FRM``
+Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` ``CFA`` ``FRM`` ``Stanford Online`` ``MIT Open Courseware``
 
 ## Table of contents
 
-### 1. Data Analytic
+### 1. Statistics & Math:<br>
+[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
+[Machine Learning Foundation - Math Foundation]() [[Note]](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
 
-#### 1.1 MySQL (SQL):
+
+### 2. Data Analytic
+
+#### 2.1 MySQL (SQL):
 [Managing Big Data with MySQL](https://www.coursera.org/account/accomplishments/verify/FG3BWNWY8HWU)<br>
 [Create a Python Application using MySQL](https://coursera.org/share/6709899500e381320aba4caba91d6520)<br>
 
-#### 1.2 MongoDB (NoSQL):<br>
+#### 2.2 MongoDB (NoSQL):<br>
 MongoDB and Python - Quick Start<br>
 [Create a Python Application using PyMongo and MongoDB Database](https://coursera.org/share/6709899500e381320aba4caba91d6520)<br>
 
-#### 1.3 Tableau: 
+#### 2.3 Tableau: 
 [Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
 
-#### 1.4 Excel & VBA:
+#### 2.4 Excel & VBA:
 [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
 
-#### 1.5 Python: <br>
+#### 2.5 Python: <br>
 [Introduction to Data Science in Python](https://coursera.org/share/eb6ab1a95fd67f01dea294cc31642485)<br>
 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/U3SU8BNGKZV9)<br>
 1. Getting Started with Python<br> 
@@ -30,17 +35,13 @@ MongoDB and Python - Quick Start<br>
 4. Using Database with Python<br> 
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
-#### 1.6 SAS: <br>
+#### 2.6 SAS: <br>
 
-#### 1.7 Statistics & Math:<br>
-[Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
-[Machine Learning Foundation - Math Foundation]() [[Note]](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
-
-### 2. Data Science
-#### 2.1 Data Science Insight:
+### 3. Data Science
+#### 3.1 Data Science Insight:
 [AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
 
-#### 2.2 Machine Learning:<br>
+#### 3.2 Machine Learning:<br>
 [Machine Learning (Stanford Unv.)](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
 [Machine Learning Specialization (Unv. Washington)]()<br>
 1. Machine Learning Foundations: A Case Study Approach<br>
@@ -56,7 +57,7 @@ MongoDB and Python - Quick Start<br>
 [Feature Selection for Machine Learning]()<br>
 [Deployment of Machine Learning Models]()<br>
 
-#### 2.3 Deep Learning:<br>
+#### 3.3 Deep Learning:<br>
 [Deep Learning Specialization]()<br>
 1. Neural Networks and Deep Learning<br>
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization <br>
@@ -70,53 +71,56 @@ MongoDB and Python - Quick Start<br>
 3. Natural Language Processing in TensowFlow<br>
 4. Sequences, Time Series and Prediction<br>
 
-#### 2.5 Git:<br>
+#### 3.4 Git:<br>
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
 [Version Control Using Git]()<br>
 
-#### 2.6 AWS (Cloud): 
+#### 3.5 AWS (Cloud): 
 [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
 
-#### 2.7 Spark (Big Data): 
+#### 3.6 Spark (Big Data): 
 [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
 
-### 3. Product
-#### 3.1 Product Insight
+### 4. Product
+#### 4.1 Product Insight
 [The Product Life Cycle: A guide from start to finish with google sheet]()<br>
 
-#### 3.2 A/B Testing:
+#### 4.2 A/B Testing:
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)<br>
 [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)<br>
 
-### 4. Computer Science
-#### 4.1 Algorithms:<br>
+### 5. Computer Science
+#### 5.1 Algorithms:<br>
 [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
 [Algorithms and Data Structrues in Python ](https://www.udemy.com/certificate/UC-e2867d8a-0914-4c9f-893a-f6667a6c83bb/)<br>
 
-### 5. Finance
+#### 5.2 Web Applications<br>
+[Python and Flask Bootcamp: Create Websites using Flask]()<br>
+
+### 6. Finance
 
 **Chartered Financial Analyst** [Level1]() [level2]()<br>
 **Financial Risk Manager** [level1]() [level2]()<br>
 
-#### 5.1 Trading and Financial Analysis:
+#### 6.1 Trading and Financial Analysis:
 [Algorithms Trading: Backtest, Optimize & Automate in Python](https://www.udemy.com/certificate/UC-JH4N7KB1/)<br>
 [Python and Statistics for Financial Analysis](https://www.coursera.org/account/accomplishments/verify/LM4R7F8C4WY2)<br>
 
-#### 5.2 Asset Management:
+#### 6.2 Asset Management:
 [Investment Management with Python and Machine Learning Specialization]()<br>
 1. Introduction to Portfolio Construction and Analysis with Python<br>
 2. Advanced Portfolio Construction and Analysis with Python<br>
 3. Python and Machine Learning for Asset Management<br>
 4. Python and Machine Learning for Asset Management with Alternative Data Sets<br>
 
-#### 5.3 Risk:<br>
+#### 6.3 Risk:<br>
 [Credit Risk Modeling in Python](https://www.udemy.com/certificate/UC-f7c34836-2fa8-4f87-9a9d-78146c71d41d/)<br>
 [Logistic Regression using SAS - Indepth Predictive Modeling](https://www.udemy.com/certificate/UC-a82adee4-f982-4cff-a2a0-acffab9f91ff/)<br>
 
-#### 5.4 C++: 
+#### 6.4 C++: 
 [C++ Programming for Financial Engineering (distinction)](https://drive.google.com/file/d/1bkcy8fPpIo0qwSo0uJAI-eyF20-mum61/view?usp=sharing)<br>
 
-#### 5.5 Bloomberg:
+#### 6.5 Bloomberg:
 [Bloomberg Market Concepts (Economic Indicators, Currencies, Fixed Income and Equities)](https://drive.google.com/file/d/1auncWML_8L4FkZ1mIS1fzOjxTpkH8Lbf/view?usp=sharing)
 
 
