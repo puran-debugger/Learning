@@ -8,7 +8,7 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` `
 ### 1. Statistics & Math:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
 [Machine Learning Foundation - Math Foundation]() [[Note]](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
-
+[Time Series Analysis]() [[Note]](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/)
 
 ### 2. Data Analytic
 
