@@ -7,8 +7,8 @@ Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` `
 
 ### 1. Statistics & Math:<br>
 [Statistical Learning](https://drive.google.com/file/d/1WjU4o31wgqvYCHYJYhp83BJHvLz7nby5/view)<br>
-[Machine Learning Foundation - Math Foundation]() [[Note]](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)<br>
-[Time Series Analysis](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/index.htm) [[Note]](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/)
+[Machine Learning Foundation - Math Foundation]() [[Note](https://github.com/puran-debugger/HsuanTienLin_MachineLearning/tree/master/Machine%20Learning%20Foundations/pdf%20files)]<br>
+[Time Series Analysis](https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/index.htm) [[Note]((https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/lecture-notes/))]
 
 ### 2. Data Analytic
 
@@ -41,7 +41,7 @@ MongoDB and Python - Quick Start<br>
 
 ### 3. Data Science
 #### 3.1 Data Science Insight:
-[AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)[[Note](https://github.com/puran-debugger/Learning/blob/master/AI%20for%20Everbody.md)]<br>
+[AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7) [[Note](https://github.com/puran-debugger/Learning/blob/master/AI%20for%20Everbody.md)]<br>
 
 #### 3.2 Machine Learning:<br>
 [Machine Learning (Stanford Unv.)](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
