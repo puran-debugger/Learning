@@ -1,6 +1,6 @@
 <h1 align="center"> Self-learning Path </h1> <br>
 
-Background: _M.S. Financial Mathematics_, _B.S. Statistics_<br>
+Background: _M.S. Financial Mathematics_, _B.S. Statistics_, _M.S. Computer Science (ongoing, part time)_<br>
 Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` ``CFA`` ``FRM`` ``Stanford Online`` ``MIT Open Courseware``
 
 ## Table of contents
