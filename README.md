@@ -41,7 +41,7 @@ MongoDB and Python - Quick Start<br>
 
 ### 3. Data Science
 #### 3.1 Data Science Insight:
-[AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)
+[AI for Everybody](https://coursera.org/share/71e95c184f179aa1cb781f530d986ae7)[[Note](https://github.com/puran-debugger/Learning/blob/master/AI%20for%20Everbody.md)]<br>
 
 #### 3.2 Machine Learning:<br>
 [Machine Learning (Stanford Unv.)](https://www.coursera.org/account/accomplishments/records/NX4DF87Y326G) <br>
