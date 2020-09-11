@@ -110,6 +110,7 @@ Toys: <br>
 
 #### 5.2 Web Applications<br>
 [Python and Flask Bootcamp: Create Websites using Flask]()<br>
+[Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/MR2X5L44MC3T)<br>
 
 ### 6. Finance
 
