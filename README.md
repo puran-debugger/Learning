@@ -21,7 +21,12 @@ MongoDB and Python - Quick Start<br>
 [Create a Python Application using PyMongo and MongoDB Database](https://coursera.org/share/6709899500e381320aba4caba91d6520)<br>
 
 #### 2.3 Tableau: 
-[Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)
+[Tableau: Certified Associate Certification](https://www.udemy.com/certificate/UC-1ae74013-ebb5-44d1-8495-c07481c45a0e/)<br>
+
+Toys: <br>
+[Visualizing Citibike Trips with Tableau](https://www.coursera.org/account/accomplishments/certificate/QMVGZ9AVDVJD)<br>
+[Building Candlestick Charts with Tableau](https://www.coursera.org/account/accomplishments/certificate/YVMVAFRB922A)<br>
+
 
 #### 2.4 Excel & VBA:
 [Unlock Excel VBA and Excel Macros](https://www.udemy.com/certificate/UC-8e62f62a-f76b-4657-8456-03c885c1eef6/)<br>
@@ -36,6 +41,11 @@ MongoDB and Python - Quick Start<br>
 5. Capstone: Retrieving, Processing, and Visualizing Data with Python<br>
 
 [Python for Time Series Data Analysis]()<br>
+
+Toys: <br>
+[COVID19 Data Analysis using Python](https://www.coursera.org/account/accomplishments/certificate/P9AB6RN7HK6S)<br>
+[Processing Data with Python](https://www.coursera.org/account/accomplishments/certificate/KDVQW2NX2G8G)<br>
+[Mining Data to Extract and Visualize Insights in Python](https://www.coursera.org/account/accomplishments/certificate/KZQUMEH7G9D6)<br>
 
 #### 2.6 SAS: <br>
 
@@ -100,6 +110,7 @@ MongoDB and Python - Quick Start<br>
 
 #### 5.2 Web Applications<br>
 [Python and Flask Bootcamp: Create Websites using Flask]()<br>
+[Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/account/accomplishments/verify/MR2X5L44MC3T)<br>
 
 ### 6. Finance
 
