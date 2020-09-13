@@ -98,6 +98,7 @@ Toys: <br>
 ### 4. Product
 #### 4.1 Product Insight
 [The Product Life Cycle: A guide from start to finish with google sheet]()<br>
+[SWOT Analysis](https://www.udemy.com/certificate/UC-9679707a-bc69-4790-a8a0-35cad471ff7c/)<br>
 
 #### 4.2 A/B Testing:
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)<br>
