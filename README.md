@@ -105,7 +105,7 @@ Toys: <br>
 [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)<br>
 
 ### 5. Computer Science
-[Computational Thinking for Problem Solving]() [[Note]()]<br>
+[Computational Thinking for Problem Solving]() [[Note](https://github.com/puran-debugger/Learning/blob/master/Computation%20Thinking%20for%20Problem%20Solving.md)]<br>
 
 #### 5.1 Algorithms:<br>
 [Algorithmic Toolbox](https://coursera.org/share/2b6071f24442435dacbfc8ac38cc1b5b)<br>
