@@ -18,3 +18,5 @@ University of Pennsylvania<br>
 
 4. Algorithms
  * Step by step instructions of how to solve a problem. It identifies what is to be done (instruction) and the order in which they should be done.
+ * flowchart<br>
+    * A parallelogram indicates a special type of instruction, called an input/output instruction
