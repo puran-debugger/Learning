@@ -17,3 +17,4 @@ University of Pennsylvania<br>
    * Unnecessary data complicatees the problem and is distracting
 
 4. Algorithms
+ * Step by step instructions of how to solve a problem. It identifies what is to be done (instruction) and the order in which they should be done.
