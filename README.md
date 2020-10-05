@@ -89,8 +89,14 @@ Toys: <br>
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/N2MYU5P9L77J)<br>
 [Version Control Using Git]()<br>
 
-#### 3.5 AWS (Cloud): 
-[Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)
+#### 3.5 AWS (Cloud): <br>
+[AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5VRFJ5D8L6X8)<br>
+1. AWS Fundamentals: Going Cloud-Native<br>
+2. AWS Fundamentals: Addressing Security Risk<br>
+3. AWS Fundamentals: Migrating to the Cloud<br>
+4. AWS Fundamentals: Building Serverless Applications<br><br>
+
+[Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)<br>
 
 #### 3.6 Spark (Big Data): 
 [Spark and Python for Big Data with Pyspark](https://www.udemy.com/certificate/UC-5291b79f-ea5f-4f0d-a14c-10a4623fc289/)<br>
