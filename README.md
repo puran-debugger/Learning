@@ -94,7 +94,7 @@ Toys: <br>
 1. AWS Fundamentals: Going Cloud-Native<br>
 2. AWS Fundamentals: Addressing Security Risk<br>
 3. AWS Fundamentals: Migrating to the Cloud<br>
-4. AWS Fundamentals: Building Serverless Applications<br><br>
+4. AWS Fundamentals: Building Serverless Applications<br>
 
 [Getting Started with AWS Machine Learning](https://coursera.org/share/ceeaf9a6dc6f6cce2fb1d77ea4ef4221)<br>
 
