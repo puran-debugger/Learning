@@ -1,8 +1,8 @@
 <h1 align="center"> Online Learning Path </h1> <br>
-This markdown is a online learning record for myself and part of study notes for the following topics. I will continue updating the record from time tio time.<br>
+This markdown is a online learning record for myself and part of study notes for the following topics. I will continue updating the record from time tio time.<br><br>
 
 
-Background: _M.S. Financial Mathematics_, _B.S. Statistics_, _M.Eng. Computer Science (ongoing, part time)_<br>
+My Background: _M.S. Financial Mathematics_, _B.S. Statistics_, _M.Eng. Computer Science (ongoing, part time)_<br>
 Resources: ``Coursera`` ``Udemy`` ``Udacity`` ``Medium`` ``Blooberg Terminal`` ``CFA`` ``FRM`` ``Stanford Online`` ``MIT Open Courseware``
 
 ## Table of contents
